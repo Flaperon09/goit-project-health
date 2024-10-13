@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/goit-project-health/static/css/main.7acaea2f.css",
-    "main.js": "/goit-project-health/static/js/main.07d3183d.js",
+    "main.css": "/goit-project-health/static/css/main.edf6da3a.css",
+    "main.js": "/goit-project-health/static/js/main.484b99ca.js",
+    "static/media/bcg-desktop-banana@2x.png": "/goit-project-health/static/media/bcg-desktop-banana@2x.c52d1799ed7640002eec.png",
+    "static/media/bcg-tablet-banana@2x.png": "/goit-project-health/static/media/bcg-tablet-banana@2x.6e086922bff51acee56b.png",
+    "static/media/bcg-desktop-strawberry@2x.png": "/goit-project-health/static/media/bcg-desktop-strawberry@2x.d112682aacdcb68cb0b9.png",
+    "static/media/bcg-desktop-leaves@2x.png": "/goit-project-health/static/media/bcg-desktop-leaves@2x.edcb0bef17ed8e43d076.png",
+    "static/media/bcg-tablet-strawberry@2x.png": "/goit-project-health/static/media/bcg-tablet-strawberry@2x.13dca4baa480d1871041.png",
+    "static/media/bcg-tablet-leaves@2x.png": "/goit-project-health/static/media/bcg-tablet-leaves@2x.37fc73b4d4309a307a68.png",
+    "static/media/bcg-desktop-strawberry.png": "/goit-project-health/static/media/bcg-desktop-strawberry.402cea86454997c58b28.png",
+    "static/media/bcg-desktop-banana.png": "/goit-project-health/static/media/bcg-desktop-banana.f16d0781529bfce32594.png",
+    "static/media/bcg-tablet-banana.png": "/goit-project-health/static/media/bcg-tablet-banana.655d34509cf5911b4565.png",
+    "static/media/bcg-desktop-leaves.png": "/goit-project-health/static/media/bcg-desktop-leaves.a8ccb5690d3438535a3f.png",
+    "static/media/bcg-tablet-strawberry.png": "/goit-project-health/static/media/bcg-tablet-strawberry.966206f16408ed8f738e.png",
+    "static/media/bcg-desktop-grey@2x.png": "/goit-project-health/static/media/bcg-desktop-grey@2x.4ae70026b223a077d122.png",
+    "static/media/bcg-tablet-leaves.png": "/goit-project-health/static/media/bcg-tablet-leaves.d0db1da6bf77580d1a6d.png",
+    "static/media/bcg-tablet-grey@2x.png": "/goit-project-health/static/media/bcg-tablet-grey@2x.5f2810f10b16e7bc6fa9.png",
     "index.html": "/goit-project-health/index.html",
-    "main.7acaea2f.css.map": "/goit-project-health/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-project-health/static/js/main.07d3183d.js.map"
+    "main.edf6da3a.css.map": "/goit-project-health/static/css/main.edf6da3a.css.map",
+    "main.484b99ca.js.map": "/goit-project-health/static/js/main.484b99ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.edf6da3a.css",
+    "static/js/main.484b99ca.js"
   ]
 }
